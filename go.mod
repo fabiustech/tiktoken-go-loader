@@ -1,3 +1,3 @@
-module github.com/pkoukk/tiktoken-go-loader
+module github.com/fabiustech/tiktoken-go-loader
 
-go 1.20
+go 1.23.0
