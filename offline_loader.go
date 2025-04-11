@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/pkoukk/tiktoken-go-loader/assets"
+	"github.com/fabiustech/tiktoken-go-loader/assets"
 )
 
 type OfflineLoader struct{}
